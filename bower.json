@@ -6,7 +6,11 @@
     "Issaq Al-Ahmed <iAL-Ahmed>",
     "Jarrod Ruhland <jangahroo>",
     "Jimmy Jea <jimjea>",
-    "Kim Marquardt <robotBones>"
+    "Kim Marquardt <robotBones>",
+    "Daniel Streit <danielstreit>",
+    "Jack Lu <JackTanRoo>",
+    "Bo Liu <liubolightning>",
+    "Andrew Brassington <jabbrass>"
   ],
   "main": "index.js",
   "moduleType": [
@@ -23,7 +27,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular-ui-router": "~0.2.11",
-    "angular-google-maps": "~1.2.1"
+    "angular-google-maps": "~1.2.1",
+    "ionic": "~0.9.27",
+    "ionicons": "~1.5.2"
   }
 }
